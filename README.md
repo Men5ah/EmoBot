@@ -1,6 +1,6 @@
 # Project Title: EmoBot
 # Introduction
-This is an Introduction to Ai project that was developed by Robert Sika and John Adenu-Mensah. The essence of this project is to create an unsupervised AI model that is able to predict emotions using a Recurrent Neural Network model Long Short Term Model (LSTM)
+This is an Introduction to AI project that was developed by Robert Sika and John Adenu-Mensah. The essence of this project is to create an unsupervised AI model that is able to predict emotions using a Recurrent Neural Network model Long Short Term Model (LSTM)
 ##
 # Contents
 * [Features](#features)
@@ -30,7 +30,7 @@ This is an Introduction to Ai project that was developed by Robert Sika and John
 ## Note:
   Model is highly effective with audio files that are taken from the official Tess dataset, and is likely to predict disgust for most audio files uploaded.
 
-# Demostration
+# Demonstration
   You can find the link to our implementation and presentation at the links below.
   ## Presentation
     https://youtu.be/oBahaY4CvjI
