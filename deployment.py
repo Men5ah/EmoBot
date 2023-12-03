@@ -39,3 +39,5 @@ if st.button('Predict Emotion'):
         st.success(f'The predicted emotion is: {emotion}')
     except Exception as e:
         st.error(f'Error: {e}')
+
+        
